@@ -1,0 +1,56 @@
+body{
+  background-color: wheat;
+}
+h1 {
+  color: brown;
+  font-family: monospace;
+  text-align: center;
+}
+
+
+
+#box1{
+  align-items: center;
+  background-color: skyblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#box1 img{
+  width: 6%;
+  
+}
+
+#box2{
+  background-color: mediumorchid;
+  display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#box2 img{
+  width: 6%;
+  
+}
+
+#box3{
+  background-color: rgb(255, 255, 255);
+  display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#box3 img{
+  width: 6%;
+  
+}
+
+h2 {
+  font-size: 50px;
+  font-family: monospace;
+  text-align: center;
+}
+
+#link1{
+text-align: center;
+}
